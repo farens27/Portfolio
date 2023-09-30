@@ -5,7 +5,7 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 - [Python](#python)
 - [SQL](#sql)
 - [Excel](#excel)
-- [Tableu](#tableu)
+- [Tableau](#tablaeu)
 
 ***
 # Python
@@ -28,7 +28,7 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 |---|---|---|
 
 ***
-# Tableu
+# Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
