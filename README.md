@@ -5,14 +5,14 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 - [Python](#python)
 - [SQL](#sql)
 - [Excel](#excel)
-- [Tableau](#tablaeu)
+- [Tableau](#tableau)
 
 ***
 # Python
 
 | Project Link | Area of Analysis | Project Description | Libraries |
 |---|---|---|---|
-| 🎮 [VCT Masters Tokyo 2023]() | EDA |  | pandas, numpy, matplotlib, seaborn |
+| 🎮 [VCT Masters Tokyo 2023](https://github.com/farens27/Python-Stuff/blob/main/VCT%20Masters%20Tokyo%202023.ipynb) | EDA |  | pandas, numpy, matplotlib, seaborn |
 | ✈️ [Flight Delay]() | EDA |  | pandas, numpy, matplotlib, seaborn, scikit-learn |
 
 ***
