@@ -6,6 +6,8 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 - [SQL](#sql)
 - [Excel](#excel)
 - [Tableau](#tableau)
+- [Power BI](#power-bi)
+- [Looker Studiio](#looker-studio)
 
 ***
 # Python
@@ -29,6 +31,18 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 
 ***
 # Tableau
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+
+***
+# Power BI
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+
+***
+# Looker Studio
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
