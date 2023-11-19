@@ -7,7 +7,7 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 - [Excel](#excel)
 - [Tableau](#tableau)
 - [Power BI](#power-bi)
-- [Looker Studiio](#looker-studio)
+- [Looker Studio](#looker-studio)
 
 ***
 # Python
