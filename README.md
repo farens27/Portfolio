@@ -34,6 +34,7 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
+|💼  [Career Track Analysis](https://github.com/farens27/SQL-Stuff/tree/main/MySQL/Career%20Track%20Analysis%20with%20SQL%20and%20Tableau) | This project aims to analyze the career track enrollments and achievements of 365's students using SQL and Tableau. The analysis will focus on understanding student enrollment patterns, completion rates, and factors influencing successful completion. The findings will be used to inform improvements to the career track program and enhance student success. | [Dashboard](https://public.tableau.com/app/profile/farensa.fernanda/viz/CareerTrackAnalysis_17003774438490/CareerTrackAnalysis) |
 
 ***
 # Power BI
