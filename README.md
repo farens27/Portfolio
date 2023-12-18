@@ -47,4 +47,4 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🛒 [Super Store Sales Analysis](https://github.com/farens27/BI-Stuff/blob/main/Looker%20Studio/Super%20Store%20Sales%20Analysis.md) | This project dives deep into the sales data of Superstore, a fictional retail giant, using Looker Studio to uncover key insights and drive informed business decisions. By analyzing various dimensions like order volume, sales figures, and customer segments | [Dashboard](https://lookerstudio.google.com/reporting/0a22a61c-972b-46fe-a5a5-42896d15b6f1) |
+| 🛒 [Super Store Sales Analysis](https://github.com/farens27/BI-Stuff/blob/main/Looker%20Studio/Super%20Store%20Sales%20Analysis.md) | This project dives deep into the sales data of Superstore, a fictional retail giant, using Looker Studio to uncover key insights and drive informed business decisions. By analyzing various dimensions like order volume, sales figures, and customer segments. | [Dashboard](https://lookerstudio.google.com/reporting/0a22a61c-972b-46fe-a5a5-42896d15b6f1) |
