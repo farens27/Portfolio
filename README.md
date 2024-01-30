@@ -14,7 +14,7 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 
 | Project Link | Area of Analysis | Project Description | Libraries |
 |---|---|---|---|
-| 🎮 [VCT Masters Tokyo 2023](https://github.com/farens27/Python-Stuff/blob/main/VCT%20Masters%20Tokyo%202023.ipynb) | EDA | This project delves into the VCT Masters Tokyo 2023 tournament, uncovering the most and least prevalent agents, map-specific agent preferences, and players excelling in various statistical categories, including kills, headshot percentage, rating, combat score, first kills, and KAS. Data visualization will be employed to effectively present the findings. | pandas, numpy, matplotlib, seaborn |
+| 🎮 [VCT Masters Tokyo 2023](https://github.com/farens27/Python-Stuff/tree/main/VCT%20Masters%20Tokyo%202023) | EDA | This project delves into the VCT Masters Tokyo 2023 tournament, uncovering the most and least prevalent agents, map-specific agent preferences, and players excelling in various statistical categories, including kills, headshot percentage, rating, combat score, first kills, and KAS. Data visualization will be employed to effectively present the findings. | pandas, numpy, matplotlib, seaborn |
 
 ***
 # SQL
