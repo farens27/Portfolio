@@ -29,6 +29,7 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 |---|---|---|---|
 | 💼  [Career Track Analysis](https://github.com/farens27/SQL-Stuff/tree/main/MySQL/Career%20Track%20Analysis%20with%20SQL%20and%20Tableau) | Data Analysis | This project aims to analyze the career track enrollments and achievements of 365's students using SQL and Tableau. The analysis will focus on understanding student enrollment patterns, completion rates, and factors influencing successful completion. The findings will be used to inform improvements to the career track program and enhance student success. | MySQL |
 | 🎵 [Music Store Analysis](https://github.com/farens27/SQL-Stuff/tree/main/PostgreSQL/Music%20Store%20Analysis) | Data Analysis | This project leverages the power of SQL to uncover key insights into the operation of an online music store and drive its success. Delve into the store's data to uncover hidden patterns and provide actionable recommendations. | PostgreSQL |
+| ⛐ [Vehicle Accident Analysis](https://github.com/farens27/SQL-Stuff/tree/main/Microsoft%20SQL%20Server/Vehicle%20Accident%20Analysis) | Data Analysis | This project embarks on a data-driven journey to demystify the world of vehicle accidents. Using the powerful lens of SQL, we'll dissect a comprehensive dataset to illuminate patterns, trends, and underlying factors contributing to these road incidents. | Microsoft SQL Server |
 
 ***
 # Excel
