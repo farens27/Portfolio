@@ -14,13 +14,14 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 # Data Engineering
 | Project Link | Tools | Project Description | 
 |---|---|---|
+| 🎥 [Movie Survey Data Cleansing](https://github.com/farens27/DE-Stuff/tree/main/Movie%20Survey) | Microsoft SQL Server & Microsoft SQL Server Integration Services (SSIS) | The Movie Survey Data Cleansing Project is a comprehensive initiative focused on mastering ETL (Extract, Transform, Load) processes utilizing SQL Server Integration Services (SSIS). The project aims to address the complexities associated with data cleansing within the realm of movie preference surveys. Through meticulous data handling and transformation, the project endeavors to streamline and standardize survey data for subsequent analysis. |
 
 ***
 # Python
 
 | Project Link | Area of Analysis | Project Description | Libraries |
 |---|---|---|---|
-| 🎮 [VCT Masters Tokyo 2023](https://github.com/farens27/Python-Stuff/tree/main/VCT%20Masters%20Tokyo%202023) | EDA | This project delves into the VCT Masters Tokyo 2023 tournament, uncovering the most and least prevalent agents, map-specific agent preferences, and players excelling in various statistical categories, including kills, headshot percentage, rating, combat score, first kills, and KAS. Data visualization will be employed to effectively present the findings. | pandas, numpy, matplotlib, seaborn |
+| 🎮 [VCT Masters Tokyo 2023](https://github.com/farens27/Python-Stuff/tree/main/VCT%20Masters%20Tokyo%202023) | EDA | This project delves into the VCT Masters Tokyo 2023 tournament, uncovering the most and least prevalent agents, map-specific agent preferences, and players excelling in various statistical categories, including kills, headshot percentage, rating, combat score, first kills, and KAS. Data visualization will be employed to effectively present the findings. | Pandas, Numpy, Matplotlib, and Seaborn |
 
 ***
 # SQL
