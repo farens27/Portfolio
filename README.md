@@ -1,7 +1,9 @@
 # 📜 Ren's Portfolio
-Data is my passion, and my portfolio is my playground. Here, you'll find a collection of my projects that showcase my skills and experience in using data to make a difference.
+Code is my craft, and my portfolio is my playground. Here, you'll find projects that span my journey from uncovering insights through data analysis and engineering, to building robust desktop and web applications with C# and .NET.
 
 ## 📁 Table of Contents
+- [Web App](#web-app)
+- [Desktop App](#desktop-app)
 - [Data Engineering](#data-engineering)
 - [Python](#python)
 - [SQL](#sql)
@@ -9,6 +11,16 @@ Data is my passion, and my portfolio is my playground. Here, you'll find a colle
 - [Tableau](#tableau)
 - [Power BI](#power-bi)
 - [Looker Studio](#looker-studio)
+
+***
+# Web App
+| Project Link | Tools | Project Description | 
+|---|---|---|
+
+***
+# Desktop App
+| Project Link | Tools | Project Description | 
+|---|---|---|
 
 ***
 # Data Engineering
